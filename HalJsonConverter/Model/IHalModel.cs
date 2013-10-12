@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace HalJsonConverter.Model
+namespace Hal.Json.Model
 {
     public interface IHalModel
     {

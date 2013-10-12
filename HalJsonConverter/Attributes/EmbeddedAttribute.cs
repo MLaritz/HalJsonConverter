@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HalJsonConverter.Attributes
+namespace Hal.Json.Attributes
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class EmbeddedAttribute : Attribute

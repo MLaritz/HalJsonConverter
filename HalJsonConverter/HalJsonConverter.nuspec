@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>HalJsonConverter</id>
+    <version>0.1.0</version>
+    <authors>Martin Laritz</authors>
+    <summary>This package contains a JSON Converter that utilizes JSON.Net to serialize your models using the HAL spec.</summary>
+    <description>HAL JSON Converter</description>
+    <projectUrl>https://github.com/MLaritz/HalJsonConverter</projectUrl>
+	<dependencies>
+	   <dependency id="Newtonsoft.Json" version="5.0.6" />
+	</dependencies>
+  </metadata>
+</package>

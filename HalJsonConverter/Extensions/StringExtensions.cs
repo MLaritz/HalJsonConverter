@@ -1,4 +1,4 @@
-﻿namespace HalJsonConverter.Extensions
+﻿namespace Hal.Json.Extensions
 {
     internal static class StringExtensions
     {

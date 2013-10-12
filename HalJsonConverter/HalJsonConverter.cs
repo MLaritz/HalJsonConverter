@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Linq;
-using HalJsonConverter.Attributes;
-using HalJsonConverter.Extensions;
-using HalJsonConverter.Model;
+using Hal.Json.Attributes;
+using Hal.Json.Extensions;
+using Hal.Json.Model;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace HalJsonConverter
+namespace Hal.Json
 {
     public class HalJsonConverter : JsonConverter
     {

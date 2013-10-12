@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalJsonConverter", "HalJsonConverter\HalJsonConverter.csproj", "{4156CE7C-4F7E-46AC-A963-4792E85B9752}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hal.Json", "HalJsonConverter\Hal.Json.csproj", "{4156CE7C-4F7E-46AC-A963-4792E85B9752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

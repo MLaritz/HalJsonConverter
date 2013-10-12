@@ -1,4 +1,4 @@
-﻿namespace HalJsonConverter.Model
+﻿namespace Hal.Json.Model
 {
     public class Link
     {
